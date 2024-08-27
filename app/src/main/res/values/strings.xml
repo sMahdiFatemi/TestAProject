@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BasicLayoutCodelab</string>
+    <string name="placeholder_search">Search</string>
+    <string name="account">Account</string>
+    <string name="sandwich">Sandwich</string>
+    <string name="pizza">Pizza</string>
+    <string name="mohito">Mohito</string>
+    <string name="melon">Melon</string>
+    <string name="ice_late">Ice Late</string>
+    <string name="favorite_collection">Favorite collection</string>
+    <string name="align_your_body">Align your body</string>
+    <string name="home">Home</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
+</resources>
